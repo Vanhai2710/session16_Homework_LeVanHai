@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  #inputContent {
+    padding: 5px;
+    border: 1px solid #ccc;
+    width: 300px;
+  }
+  
+  #outputContent {
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    width: 300px;
+  }
+  
